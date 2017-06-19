@@ -18,3 +18,5 @@ This library focuses on using the I2C interface. The sensor also supports a 1-wi
 1=VDD, 2=SDA, 3=GND, 4=SCL
 
 For full documentation see http://micropython-dht12.rtfd.io/.
+
+![demo](docs/DHT12.jpg)

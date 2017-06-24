@@ -1,4 +1,4 @@
-# DHT12 I2C
+# MicroPython DHT12 I2C
 
 A MicroPython library for interfacing with an Aosong DHT12 temperature and humidity sensor over I2C.
 
